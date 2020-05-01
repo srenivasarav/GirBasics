@@ -5,6 +5,6 @@ return a-b
 def mul(a*b):
 pass
 def div(a/b):
-pass
+return a/b
 def modulo(a%b):
 pass
