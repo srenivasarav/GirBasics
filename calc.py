@@ -1,10 +1,10 @@
 def add(a+b):
-pass
+return a+b
 def sub(a-b):
-pass
+return a-b
 def mul(a*b):
-pass
+return a*b
 def div(a/b):
-pass
+return a/b
 def modulo(a%b):
-pass
+return a%b
