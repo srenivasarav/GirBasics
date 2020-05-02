@@ -1,12 +1,12 @@
 def add(a+b):
-return a+b
+pasa
 def sub(a-b):
-return a-b
+pass
 def mul(a*b):
-return a*b
+pass
 def div(a/b):
-return a/b
+pass
 def modulo(a%b):
-return a%b
+pass
 
 
